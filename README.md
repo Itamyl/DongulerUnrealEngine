@@ -28,4 +28,5 @@ Yeni başlayanlar için yükledim sıfırdan video izlemek yerine direkt buradan
 
 Kaynak olarak kullandığım yerler
 ERG Dev // Türkçe UE5 içerikleri çekiyor youtube üzerinden bulabilirsiniz.
+
 UE5 Documentation

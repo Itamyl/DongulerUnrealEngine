@@ -2,7 +2,8 @@
 Unreal Engine Döngüler Türkçe BLUEPRINT
 
 Şunları içeriyor: Switch, Branch, Delay, Do Once, Flip Flop, For Loop, For Loop With Break, While Loop, Sequence, Gate ve Multi Gate.
-Yeni başlayanlar için yükledim sıfırdan video izlemek yerine direkt buradan bakabilirsiniz.
+
+Yeni başlayanlar için yükledim sıfırdan video izlemek yerine direkt buradan bakabilirsiniz. Anakarakterinizin Blueprint'e ekleyip deneyebilirsiniz.
 
 # Foor Loop
 ![ForLoop](https://github.com/user-attachments/assets/9842832d-f7e6-4203-87bf-ad9e309884ff)

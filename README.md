@@ -1,5 +1,6 @@
 # DongulerUnrealEngine
 Unreal Engine Döngüler Türkçe BLUEPRINT
+
 Şunları içeriyor: Switch, Branch, Delay, Do Once, Flip Flop, For Loop, For Loop With Break, While Loop, Sequence, Gate ve Multi Gate.
 Yeni başlayanlar için yükledim sıfırdan video izlemek yerine direkt buradan bakabilirsiniz.
 

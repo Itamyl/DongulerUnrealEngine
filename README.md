@@ -13,7 +13,7 @@ Yeni başlayanlar için yükledim sıfırdan video izlemek yerine direkt buradan
 ![DoOnce](https://github.com/user-attachments/assets/a87833e5-a5c1-4301-86d0-7397a31cbdb4)
 # Delay
 ![Delay](https://github.com/user-attachments/assets/cc459bff-38a1-4079-a4eb-7b9f75dc9c74)
-# Brach 
+# Branch
 ![branch](https://github.com/user-attachments/assets/71d93945-9ab2-47c1-ad55-46d5573d4253)
 # Switch 
 ![Switch](https://github.com/user-attachments/assets/42040f78-b4cf-49bb-a4e0-6b9903833574)
